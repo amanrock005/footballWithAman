@@ -1,5 +1,7 @@
 # footballWithAman
 
+![Repositry View Count](https://hits.sh/github.com/amanrock005/footballWithAman.svg?label=Repositry%20Views&color=blue)
+
 ## Still work in progress
 
 This repo will contain what I've learnt so far about football. 
