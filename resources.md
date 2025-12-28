@@ -10,7 +10,5 @@
 
 - https://www.youtube.com/@housedance-tutorial
 
-It is a dance YouTube channel. The reason why I have mentioned it here because it can improve coordination, footwork and help build a smooth rythm to dribble a football. 
-
-The inspiration comes from  Brazilian footballer who know how to dance both with and without a football.
+[Refer the dance.md file to learn more about the reasons to dance as a footballer](./dance.md)
 
