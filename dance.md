@@ -32,3 +32,4 @@ Note: Dancing is not going to make you a sensi in movement, but it can definitel
 |Dance Tutorial|
 |:------------|
 |https://www.youtube.com/watch?v=iKYA4FZOA00|
+|https://www.youtube.com/watch?v=58EEnrkrzeQ|

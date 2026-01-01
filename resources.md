@@ -9,6 +9,7 @@
 ### Coordination and footwork
 
 - https://www.youtube.com/@housedance-tutorial
+- https://www.youtube.com/playlist?list=PLXNyOoexGdSekCOMwzHvfI1zJtvrcZ0tf
 
 [Refer the dance.md file to learn more about the reasons to dance as a footballer](./dance.md)
 
