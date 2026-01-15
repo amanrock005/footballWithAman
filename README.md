@@ -2,6 +2,12 @@
 
 ![Repositry View Count](https://hits.sh/github.com/amanrock005/footballWithAman.svg?label=Repositry%20Views&color=blue)
 
+## Projects
+
+| Project Name | Live Link 
+|:-------------|:--------------|
+| Voice Direction     | https://voicedirection.vercel.app/  |
+
 ## Still work in progress
 
 This repo contains what I've learnt so far about football. 

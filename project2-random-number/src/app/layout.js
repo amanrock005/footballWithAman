@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "footballWithAman",
-  description: "voice guided exercise to practice dribbling skill",
+  description: "random number generator to practice scanning skill",
 };
 
 export default function RootLayout({ children }) {
