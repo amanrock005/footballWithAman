@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 
 export default function Home() {
-  const colors = ['bg-white', 'bg-blue-500', 'bg-orange-600', 'bg-red-500'];
+  const colors = ['bg-white', 'bg-blue-500', 'bg-yellow-500', 'bg-red-500'];
   const [bgColor, setBgColor] = useState('bg-white');
   const [randomNumber, setRandomNumber] = useState(1);
 
