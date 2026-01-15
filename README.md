@@ -7,6 +7,7 @@
 | Project Name | Live Link 
 |:-------------|:--------------|
 | Voice Direction     | https://voicedirection.vercel.app/  |
+| Random Number       | https://random-number-alpha-lemon.vercel.app/ |
 
 ## Still work in progress
 
