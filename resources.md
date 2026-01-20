@@ -5,6 +5,7 @@
 - https://www.youtube.com/@BeLikeCristiano
 - https://www.youtube.com/@BecomeElite
 - https://www.youtube.com/@alexramostraining
+- https://www.youtube.com/@OnThePitchIQ
 
 ### Coordination and footwork
 
@@ -13,3 +14,6 @@
 
 [Refer the dance.md file to learn more about the reasons to dance as a footballer](./dance.md)
 
+## Athlete Specific Workouts
+
+https://www.instagram.com/huge_ocean.performance/
