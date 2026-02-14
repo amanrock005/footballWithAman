@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 
 export default function Home() {
-  const colors = ['bg-white', 'bg-blue-500', 'bg-yellow-500', 'bg-red-500'];
+  const colors = ['bg-black', 'bg-blue-500', 'bg-yellow-500', 'bg-red-500'];
   const [bgColor, setBgColor] = useState('bg-white');
   const [randomNumber, setRandomNumber] = useState(1);
 
@@ -25,7 +25,7 @@ export default function Home() {
 
   return (
     <main className={`fixed inset-0 flex items-center justify-center transition-colors duration-500 ${bgColor}`}>
-      <div className='text-[15rem] font-bold drop-shadow-lg transition-colors duration-500 text-black'>
+      <div className='text-[15rem] font-bold drop-shadow-lg transition-colors duration-500 text-white'>
         {randomNumber}
       </div>
     </main>
